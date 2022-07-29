@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bananamanners
-- 👀 I’m interested in developing software apps that helps people achieve their goals.
-- 🌱 I’m currently learning swift
+- 👀 I’m interested in developing software that helps people achieve their goals and solve problems.
+- 🌱 I’m currently dabbling in swift and iOS development
 
 <!---
 bananamanners/bananamanners is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
